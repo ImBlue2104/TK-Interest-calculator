@@ -21,7 +21,7 @@ t_input.pack()
 Label(root, text="Enter Interest (%):", bg='light grey').pack()
 i_input = Entry(root)
 i_input.pack()
-in:#daydream-bulletin%20cocClear
+
 # Calculation function
 def calc():
     p = float(p_input.get())
